@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OTEC1
 - 👀 I’m interested programming, network Configuration,u boats simulations, and innovative ideas ...
 - 🌱 I’m currently learning  java, python, reactjs, typscript, cloud services, networking.. etc
-- 💞️ I’m looking to collaborate on  "java, python, react, php, cisco networking.. etc"
 - 📫 How to reach me gregokoko56@gmail.com
 
 <!---

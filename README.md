@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OTEC1
-- 👀 I’m interested programming, network Configuration,u boats simulations, and innovative ideas ...
-- 🌱 I’m currently learning  java, python, reactjs, typscript, cloud services, networking.. etc
-- 📫 How to reach me gregokoko56@gmail.com
+- 👀 I’m interested programming, network configuration,u boats simulations, and innovative ideas ...
+- 🌱 I’m currently learning java, reactjs, typscript, python, cloud services, networking.
+- 📫 How to reach me tobeokoko18@gmail.com
 
 <!---
 OTEC1/OTEC1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
